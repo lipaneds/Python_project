@@ -1,0 +1,23 @@
+ Full Python Course
+
+1.Core Python:-
+
+i. Itroduction of python
+ii. Indetifiers
+iii. Operators
+iv. Data type & Data structure
+ v. Type Casting
+vi. Flow Control
+vii. Function
+
+2.Advance python:-
+i. Modules
+ii. File Handeling
+iii. Exception Handeling
+iv.Python OOPs Concepts
+v. Python Database programming
+
+------------------------------------------------
+Automation scripts (7days)
+
+----   GIT Class(GITHUB):-(8Hours)
